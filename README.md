@@ -1,6 +1,6 @@
 ### WELCOME TO MY PROFILE 🙌🏼
 ---------------------------------------------
-Hello, my name is Alex and if you are my friend I let you call me Kladov
+Hi!! My name is Alex and if you are my friend I let you call me Kladov. I am a student of a higher degree of Multiplatform Application Development, in Albacete.
 
 
 ### SKILLS
