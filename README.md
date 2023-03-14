@@ -1,7 +1,6 @@
 ### WELCOME TO MY PROFILE 🙌🏼
 ---------------------------------------------
-
-Hi!! My name is Alex or Kladov, depend the moment
+Hello, my name is Alex and if you are my friend I let you call me Kladov
 
 
 ### SKILLS
