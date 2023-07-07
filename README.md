@@ -2,6 +2,7 @@
 ---------------------------------------------
 Hi!! My name is Alex and if you are my friend I let you call me Kladov. 
 I am a student of a higher degree of Multiplatform Application Development, in Albacete.
+<\br>
   → I'm working with Java language, managing object oriented programming (OOP), graphical environment, exception handling, class and objects. I have a growing soccer project, you can find it in my Java folder.
 
 
