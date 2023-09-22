@@ -5,7 +5,6 @@ Hi!! My name is Alex and if you are my friend I let you call me Kladov.
 <p>• SQL, PSQL, relational database, object-oriented database.</p>
 
 ### ✔ SKILLS
-[![tech](https://skillicons.dev/icons?i=java,cs,postgres,html,css,js)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,postgres,html,css,js" />
