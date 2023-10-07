@@ -3,8 +3,8 @@
 Hi!! My name is Alex and if you are my friend I let you call me Kladov. 
 <p>• I'm working with Java language, managing object oriented programming (OOP), graphical environment with SWING.</p>
 <p>• SQL, PSQL, relational database, object-oriented database.</p>
-<p>• I use VS Community to work graphically with C#, .NET framework workload.</p>
-### Java
+<p>• I use VS Community to work graphically with C#, .NET framework workload.
+     I usually work with Kotlin in Android Studio, but I focus more on Java.</p>
 
 ### SKILLS
 <p align="center">
