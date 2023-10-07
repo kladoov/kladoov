@@ -12,4 +12,4 @@ Hi!! My name is Alex and if you are my friend I let you call me Kladov.
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kladoov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kladoov)](https://github.com/kladoov/github-readme-stats)
