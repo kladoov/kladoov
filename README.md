@@ -6,7 +6,6 @@ Hi!! My name is Alex and if you are my friend I let you call me Kladov.
 <p>• I use VS Community to work graphically with C#, .NET framework workload.</p>
 <p>• I usually work with Kotlin in Android Studio, but I focus more on Java.</p>
 
-### SKILLS
 <p align="center">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,cs,postgres,androidstudio,html,css,js" />
