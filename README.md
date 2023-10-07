@@ -7,6 +7,6 @@ Hi!! My name is Alex and if you are my friend I let you call me Kladov.
 ### SKILLS
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,cs,postgres,html,css,js" />
+      <img src="https://skillicons.dev/icons?i=java,cs,postgres,androidstudio,html,css,js" />
   </a>
 </p>
