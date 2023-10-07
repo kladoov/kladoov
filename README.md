@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=4C566A&width=435&lines=WELCOME%2C+TO+MY+PROFILE)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=4C566A&width=435&lines=WELCOME%2C+TO+MY+PROFILE+I'M+KLADOV)
 ---------------------------------------------
 <p>• I'm working with Java language, managing object oriented programming (OOP), graphical environment with SWING.</p>
 <p>• SQL, PSQL, relational database, object-oriented database.</p>
