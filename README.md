@@ -3,7 +3,7 @@
 <p>• I'm working with Java language, managing object oriented programming (OOP), graphical environment with SWING.</p>
 <p>• SQL, PSQL, relational database, object-oriented database.</p>
 <p>• I use VS Community to work graphically with C#, .NET framework workload.</p>
-<p>• I usually work with Kotlin in Android Studio, but I focus more on Java.</p>
+<p>• Android Studio, focus on Java.</p>
 
 ### SKILLS
 
