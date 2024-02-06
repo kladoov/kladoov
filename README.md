@@ -9,7 +9,7 @@
 
 ### SKILLS
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,py,postgres,androidstudio,html,css,js" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,py,postgres,hibernate,androidstudio,html,css,js" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kladoov&layout=compact&theme=dark)](https://github.com/kladoov/github-readme-stats)
 
