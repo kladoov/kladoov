@@ -3,7 +3,7 @@
 ### ABOUT ME
 <p>Hello!! I'm a Higher Degree student Multiplatform Application Developer</p>
 <p>• I'm working with Java language, managing object oriented programming (OOP), graphical environment with SWING.</p>
-<p>• SQL, PSQL, relational database, object-oriented database work with Oracle, Heidi.</p>
+<p>• SQL, PSQL, relational database, object-oriented database work with Oracle, Heidi, MariaDB.</p>
 <p>• I use VS Community to work graphically with C#, .NET framework workload, WPF (XAML).</p>
 <p>• Android Studio, focus on Java.</p>
 
