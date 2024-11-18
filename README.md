@@ -1,15 +1,17 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=4C566A&width=435&lines=WELCOME+TO+MY+PROFILE%2C+I'M+KLADOV)
 ---------------------------------------------
 ### ABOUT ME
-<p>Hello!! I'm a Software Developer</p>
-<p>• I'm working with Java language, managing object oriented programming (OOP), graphical environment with SWING.</p>
-<p>• SQL, PSQL, relational database, object-oriented database work with Oracle, Heidi, MariaDB.</p>
-<p>• I use VS Community to work graphically with C#, .NET framework workload, WPF (XAML).</p>
-<p>• Android Studio, focus on Java.</p>
+<p>Hi! I'm Aleksandr.</p>
+<p>💻 Full Stack Developer specializing in Delphi Pascal, SQL, and Mobile Development
+I have extensive experience in full-cycle application development, with strong expertise in Delphi Pascal and SQL across databases like PostgreSQL, HeidiSQL, and MariaDB. I also develop Python scripts, create algorithms, and build REST APIs to optimize processes.</p>
+<p>📱 Android and iOS Developer
+I use Android Studio with Java for Android and Delphi Pascal for both Android and iOS in cross-platform projects.</p>
+<p>🚀 Skilled in multiple programming languages and development tools
+I'm experienced in Java, utilizing object-oriented programming (OOP) and building graphical interfaces with Swing. I also work with SQL and PSQL in relational and object-oriented databases, including Oracle, HeidiSQL, and MariaDB. Additionally, I use Visual Studio Community for C# development, working with the .NET framework and WPF (XAML), and focus on Java in Android Studio for mobile development.</p>
 
 ### SKILLS
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,py,postgres,hibernate,androidstudio,html,css,js" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cs,py,postgres,hibernate,androidstudio,html,css,js,git"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kladoov&layout=compact&theme=dark)](https://github.com/kladoov/github-readme-stats)
 
