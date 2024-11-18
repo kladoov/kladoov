@@ -6,9 +6,10 @@
 I have extensive experience in full-cycle application development, with strong expertise in Delphi Pascal and SQL across databases like PostgreSQL, SQLServer. I also develop Python scripts, create algorithms, and build REST APIs to optimize processes.</p>
 <p>📱 Android and iOS Developer
 I use Android Studio with Java for Android and Delphi Pascal for both Android and iOS in cross-platform projects.</p>
-<p>🚀 Skilled in multiple programming languages and development tools
-I'm experienced in Java, utilizing object-oriented programming (OOP) and building graphical interfaces with Swing. 
-I use Visual Studio Community for C# development, working with the .NET framework and WPF (XAML)</p>
+
+<p>🚀 Skilled in multiple programming languages and development tools</p>
+<p>I'm experienced in Java, utilizing object-oriented programming (OOP) and building graphical interfaces with Swing.</p>
+<p>I use Visual Studio Community for C# development, working with the .NET framework and WPF (XAML)</p>
 
 ### SKILLS
 
