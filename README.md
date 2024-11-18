@@ -7,7 +7,7 @@ I have extensive experience in full-cycle application development, with strong e
 <p>📱 Android and iOS Developer
 I use Android Studio with Java for Android and Delphi Pascal for both Android and iOS in cross-platform projects.</p>
 
-🚀 Skilled in multiple programming languages and development tools
+<p>🚀 Skilled in multiple programming languages and development tools</p>
 I'm experienced in Java, where I utilize object-oriented programming (OOP) and build graphical interfaces with Swing. I also work with C# in Visual Studio Community, focusing on the .NET framework and WPF (XAML) for Windows applications.
 
 ### SKILLS
