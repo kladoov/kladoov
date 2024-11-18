@@ -3,11 +3,12 @@
 ### ABOUT ME
 <p>Hi! I'm Aleksandr.</p>
 <p>💻 Full Stack Developer specializing in Delphi Pascal, SQL, and Mobile Development
-I have extensive experience in full-cycle application development, with strong expertise in Delphi Pascal and SQL across databases like PostgreSQL, HeidiSQL, and MariaDB. I also develop Python scripts, create algorithms, and build REST APIs to optimize processes.</p>
+I have extensive experience in full-cycle application development, with strong expertise in Delphi Pascal and SQL across databases like PostgreSQL, SQLServer. I also develop Python scripts, create algorithms, and build REST APIs to optimize processes.</p>
 <p>📱 Android and iOS Developer
 I use Android Studio with Java for Android and Delphi Pascal for both Android and iOS in cross-platform projects.</p>
 <p>🚀 Skilled in multiple programming languages and development tools
-I'm experienced in Java, utilizing object-oriented programming (OOP) and building graphical interfaces with Swing. I also work with SQL and PSQL in relational and object-oriented databases, including Oracle, HeidiSQL, and MariaDB. Additionally, I use Visual Studio Community for C# development, working with the .NET framework and WPF (XAML), and focus on Java in Android Studio for mobile development.</p>
+I'm experienced in Java, utilizing object-oriented programming (OOP) and building graphical interfaces with Swing. 
+I use Visual Studio Community for C# development, working with the .NET framework and WPF (XAML)</p>
 
 ### SKILLS
 
